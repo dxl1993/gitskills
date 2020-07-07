@@ -1,2 +1,3 @@
 # gitskills
-# marlboro
+# marlboroi
+Creating a new branch is quick & s1mple
